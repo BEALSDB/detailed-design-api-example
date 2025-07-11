@@ -1,5 +1,3 @@
-// src/repositories/exampleRepository.js
-
 // import { query } from '@your-org/postgres-adapter';
 // import {
 //   insertExample,

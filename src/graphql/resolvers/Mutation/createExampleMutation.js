@@ -1,5 +1,3 @@
-// src/graphql/resolvers/Mutation/createExampleMutation.js
-
 // JIRA: PROJ-1234
 // Implementation:
 //   1) Validate input against `schemas.args`

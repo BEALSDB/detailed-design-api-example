@@ -1,4 +1,3 @@
-// src/tests/graphql/resolvers/Query/getExampleQuery.test.js
 // JIRA: PROJ-1235
 
 // import { handler, schemas } from '../../../../graphql/resolvers/Query/getExampleQuery';

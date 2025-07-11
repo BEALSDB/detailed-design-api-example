@@ -1,5 +1,3 @@
-// src/graphql/resolvers/Query/getExampleQuery.js
-
 // JIRA: PROJ-1235
 // Implementation:
 //   1) Validate `id` against `schemas.args`

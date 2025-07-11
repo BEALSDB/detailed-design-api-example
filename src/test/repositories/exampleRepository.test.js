@@ -1,4 +1,3 @@
-// src/tests/repositories/exampleRepository.test.js
 // JIRA: PROJ-1234, PROJ-1235
 
 // import { query } from '@your-org/postgres-adapter';

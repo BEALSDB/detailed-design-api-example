@@ -1,4 +1,3 @@
-// src/tests/graphql/resolvers/Mutation/createExampleMutation.test.js
 // JIRA: PROJ-1234
 
 // import { handler, schemas } from '../../../../graphql/resolvers/Mutation/createExampleMutation';

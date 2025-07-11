@@ -1,5 +1,3 @@
-// src/repositories/queries/exampleQueries.js
-
 // JIRA: PROJ-1234
 const exampleAttributes = `
   id
