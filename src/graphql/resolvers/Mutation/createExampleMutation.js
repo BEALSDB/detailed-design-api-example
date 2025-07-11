@@ -14,7 +14,7 @@ export const requiresScopesForTwoLegged = [];    // TODO: define scopes if neede
 export const allowThreeLegged = false;           // TODO: adjust auth flags
 
 export const schemas = {
-    transformationEnabled: true,                   // stub: enable to auto‑cast args
+    transformationEnabled: true,
     args: joi.object({
         input: joi.object({
             example: joi.object({
